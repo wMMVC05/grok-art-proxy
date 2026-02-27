@@ -11,8 +11,8 @@ mode = "smart"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "grok-imagine"
-database_id = "47ac51d3-e323-4369-931d-a7fd949b6434"
+database_name = "vc05"
+database_id = "091f256c-ae76-4d7e-815c-4a929aeb222d"
 migrations_dir = "migrations"
 
 [[kv_namespaces]]
